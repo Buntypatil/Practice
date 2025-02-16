@@ -1,3 +1,4 @@
+#this code is my first practise code
 import random
 ''' 
 1 for snake
